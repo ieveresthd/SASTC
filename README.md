@@ -6,7 +6,7 @@ By Di Hong & Yueming Wang.
 
 *This study focuses on mitigating performance degradation due to spatio-temporal semantic mismatches and negative regularization in conventional ANN-to-SNN knowledge distillation methods.We propose a self-attentive mechanism to learn layer association weights across different time steps, enabling semantically aligned knowledge transfer.*
 
-![overview](/Users/ieverest/Research/GitHub/SASTC/fig/SASTC_overview.jpg)
+![overview](./fig/SASTC_overview.jpg)
 
 ## Requirements
 
