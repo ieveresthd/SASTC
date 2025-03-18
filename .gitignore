@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 虚拟环境
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+
+# 日志文件
+*.log
+
+# 数据文件
+data/
+*.csv
+*.json
+
+# 模型文件
+*.pth
+*.h5
+.DS_Store
